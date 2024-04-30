@@ -21,7 +21,7 @@ All the functions required to build the PDNE framework and also to reproduce the
 Data required to reproduce the figures in the manuscript can be downloaded using the following Dropbox link: https://shorturl.at/KQWZ2
 
 ## 4. Online executable code
-An online executable version of the code is also provided in the Python notebook formate on Google Colab: https://shorturl.at/elvPY
+An online executable version of the code is also provided in the Python notebook format on Google Colab: https://shorturl.at/elvPY
 
 ## 5. Specific Python libraries and their versions
 - **NetworkX:** version 2.8.4 (https://networkx.org/documentation/stable/release/release_2.8.4.html)

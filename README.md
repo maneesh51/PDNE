@@ -25,3 +25,5 @@ An online executable version of the code is also provided in the Python notebook
 
 ## 5. Specific Python libraries and their versions
 - **NetworkX:** version 2.8.4 (https://networkx.org/documentation/stable/release/release_2.8.4.html)
+- **Matplotlib:** version 3.8.0 (https://matplotlib.org/stable/users/prev_whats_new/whats_new_3.8.0.html)
+- **Scipy:** version 1.10.1 (https://docs.scipy.org/doc/scipy-1.10.1/)

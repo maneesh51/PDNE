@@ -6,3 +6,5 @@
 
 
 Link to data on Dropbox: https://shorturl.at/KQWZ2
+
+Executable notebook on Google Colab: https://shorturl.at/elvPY

@@ -1,5 +1,4 @@
-**Performance Dependent Network Evolution (PDNE)**
-
+# Performance Dependent Network Evolution (PDNE)
 
 This repository contains codes for simulating the network evolution framework provided in the manuscript 
 *"Evolution Beats Random Chance: Performance-dependent Network Evolution for Enhanced Computational Capacity"*

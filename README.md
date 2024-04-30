@@ -18,9 +18,11 @@ We addressed the aforementioned problem by proposing a performance-dependent net
 All the functions required to build the PDNE framework and also to reproduce the results in the manuscript are present in `PDNE_Functions.py`. All the simulations can be run using the Python script `PDNE_RunTasks.py` and also using the Python notebook `PDNE_RunTasks.ipynb`. All the figures can be regenerated using `PDNE_Plots_A.ipynb` and `PDNE_Plots_B.ipynb` notebooks.
 
 ## 3. Data
-Link to data on Dropbox: https://shorturl.at/KQWZ2
+Data required to reproduce the figures in the manuscript can be downloaded using the following Dropbox link: https://shorturl.at/KQWZ2
 
 ## 4. Online executable code
-Executable notebook on Google Colab: https://shorturl.at/elvPY
+An online executable version of the code is also provided in the Python notebook formate on Google Colab: https://shorturl.at/elvPY
 
 ## 5. Specific Python libraries and their versions
+- **NetworkX:** version 2.8.4 (https://networkx.org/documentation/stable/release/release_2.8.4.html)
+- 

@@ -25,4 +25,3 @@ An online executable version of the code is also provided in the Python notebook
 
 ## 5. Specific Python libraries and their versions
 - **NetworkX:** version 2.8.4 (https://networkx.org/documentation/stable/release/release_2.8.4.html)
-- 

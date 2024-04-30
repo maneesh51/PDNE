@@ -10,14 +10,17 @@
 
 
 ## 1. Brief description of the framework
-The fundamental problem of identifying \textit{structure-function} relationships in networks has gained significant attention across diverse scientific fields in recent years. We provide a new perspective on the same problem by taking a step back and asking how networks evolve to achieve specific functionality. What are the underlying principles and scaling laws? Is it possible to generate optimally sized networks to solve specific tasks? 
+The fundamental problem of identifying *structure-function* relationships in networks has gained significant attention across diverse scientific fields in recent years. We provide a new perspective on the same problem by taking a step back and asking how networks evolve to achieve specific functionality. What are the underlying principles and scaling laws? Is it possible to generate optimally sized networks to solve specific tasks? 
 
-We addressed the aforementioned problem by proposing a performance-dependent network evolution framework. The framework consists of node addition and deletion modules that selectively expand and shrink the underlying network to improve the overall information processing capabilities of the network. The unique yet simple idea of a goal-oriented network evolution framework has helped us to elucidate the emergent \textit{structure-function} relationships via graph-theoretic measures and task-specific networks of distinct size and densities with their unique organizations, growth rates and internal asymmetries. 
+We addressed the aforementioned problem by proposing a performance-dependent network evolution framework. The framework consists of node addition and deletion modules that selectively expand and shrink the underlying network to improve the overall information processing capabilities of the network. The unique yet simple idea of a goal-oriented network evolution framework has helped us to elucidate the emergent *structure-function* relationships via graph-theoretic measures and task-specific networks of distinct size and densities with their unique organizations, growth rates and internal asymmetries. For more details: https://arxiv.org/abs/2403.15869
 
 ## 2. Description of the files present in this repository
+All the functions required to build the PDNE framework and also to reproduce the results in the manuscript are present in `PDNE_Functions.py`. All the simulations can be run using the Python script `PDNE_RunTasks.py` and also using the Python notebook `PDNE_RunTasks.ipynb`. All the figures can be regenerated using `PDNE_Plots_A.ipynb` and `PDNE_Plots_B.ipynb` notebooks.
 
 ## 3. Data
 Link to data on Dropbox: https://shorturl.at/KQWZ2
 
 ## 4. Online executable code
 Executable notebook on Google Colab: https://shorturl.at/elvPY
+
+## 5. Specific Python libraries and their versions
